@@ -1,6 +1,6 @@
 ---
 title: 'About'
-date: 2018-02-22T17:01:34+07:00
+date: 2021-01-01T17:01:34+07:00
 layout: page
 bodyClass: page-about
 backgroundimage: "images/illustrations/about-header-bg.jpg"
