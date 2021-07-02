@@ -3,8 +3,7 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 layout: page
 bodyClass: page-about
-image:
-  background: "images/illustrations/about-header-bg.jpg" 
+backgroundimage: "images/illustrations/about-header-bg.jpg"
 ---
 
 
