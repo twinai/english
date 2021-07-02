@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/naguthogiti.jpg"
 jobtitle: "SVP AI & Senior Partner"
-linkedinurl: "https://www.linkedin.com/in/naguthogiti/"
+url: "https://www.linkedin.com/in/naguthogiti/"
 promoted: true
 weight: 1
 layout: team

@@ -4,7 +4,7 @@ date: 2021-01-01T10:47:58+10:00
 draft: false
 image: "images/team/laifeipei.jpg"
 jobtitle: "Executive Advisor"
-linkedinurl: "https://sites.google.com/site/medinfolabatntu/home"
+url: "https://sites.google.com/site/medinfolabatntu/home"
 promoted: true
 weight: 2
 layout: team
