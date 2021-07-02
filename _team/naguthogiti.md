@@ -4,7 +4,7 @@ date: 2021-01-01T10:47:58+10:00
 draft: false
 image: "images/team/naguthogiti.jpg"
 jobtitle: "Founder & SVP AI"
-url: "https://www.linkedin.com/in/naguthogiti/"
+profileurl: "https://www.linkedin.com/in/naguthogiti/"
 promoted: true
 weight: 1
 layout: team

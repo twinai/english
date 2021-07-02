@@ -4,7 +4,7 @@ date: 2021-01-01T13:45:06+10:00
 draft: false
 image: 'images/team/wang-chiaojung.jpg'
 jobtitle: 'CEO & Founder'
-url: "https://www.linkedin.com/in/naguthogiti/"
+profileurl: "https://www.linkedin.com/in/naguthogiti/"
 promoted: true
 weight: 3
 layout: team
