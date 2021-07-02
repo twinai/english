@@ -1,5 +1,5 @@
 ---
-title: " 賴飛羆 Lai, Feipei"
+title: "賴飛羆 Lai, Feipei"
 date: 2021-01-01T10:47:58+10:00
 draft: false
 image: "images/team/laifeipei.jpg"

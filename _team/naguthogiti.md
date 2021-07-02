@@ -1,9 +1,9 @@
 ---
-title: "Nagu Thogiti"
-date: 2018-11-19T10:47:58+10:00
+title: "督一 心 Nagu Thogiti"
+date: 2021-01-01T10:47:58+10:00
 draft: false
 image: "images/team/naguthogiti.jpg"
-jobtitle: "SVP AI & Senior Partner"
+jobtitle: "Founder & SVP AI"
 url: "https://www.linkedin.com/in/naguthogiti/"
 promoted: true
 weight: 1
