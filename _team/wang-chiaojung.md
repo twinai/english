@@ -2,7 +2,7 @@
 title: '王皎容 Wang, Chiao-Jung'
 date: 2021-01-01T13:45:06+10:00
 draft: false
-image: 'images/team/wang-chiaojung.jpeg'
+image: 'images/team/wang-chiaojung.jpg'
 jobtitle: 'CEO & Founder'
 url: "https://www.linkedin.com/in/naguthogiti/"
 promoted: true
