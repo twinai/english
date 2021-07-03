@@ -9,7 +9,7 @@ bodyClass: page-contact
 
 | Inquiry Reason | Ways to Reach Us  |
 | --------- | --------------- |
-| Business   | info@twinai.tw |
+| Business   | business@twinai.tw |
 | Media | media@twinai.tw |
 | Product Support  | support@twinai.tw |
 | Product Training    | education@twinai.tw |
