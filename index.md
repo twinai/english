@@ -7,7 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# We accelerate digital transformation in healthcare
+# We accelerate digital transformation in Health and Life Sciences
 ## From edge to cloud, cloud to edge
 
 Twin AI is an enterprise AI platform that unlocks the value of your health data.

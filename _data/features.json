@@ -1,17 +1,22 @@
 [
   {
     "title": "We Build. We License. We Integrate.",
-    "description": "Power your real-time decisions for better health outcomes.",
+    "description": "Power your real-time decisions for better outcomes.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Computer Vision on Device",
-    "description": "AI powered by edge-computing and federated learning to gain high-level understanding from digital images and videos",
+    "title": "Accelerate business outcomes with a backbone for AI/ML.",
+    "description": "AI powered by Federated Learning, Deep Learning, Computer Vision, NLP/NLU and edge-computing to power real-time decisions and outcomes from your data.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Full end-to-end AI Platform Solution",
-    "description": "Power your real-time decisions for better health outcomes.",
+    "title": "Full end-to-end AI Solutions",
+    "description": "Unite your organization around a shared environment for AI/ML.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Build Ethical & Responsible AI Solutions",
+    "description": "Maximize impact and minimize risk with an AI Solution designed for responsible engineering.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

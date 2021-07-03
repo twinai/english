@@ -31,7 +31,7 @@ We’re engineers. At our offices, we’ve assembled a team that combines practi
 ## We meet the problems where they live
 Our customers have data and a deep understanding of the problems they face. We have proven products and an engineering mindset. We send our engineers into the field to work directly with our customers—deploying our products, integrating their data, optimizing their workflows, and producing operational results in weeks, not years. By establishing a true partnership, we help customers get the most out of our products and engineering expertise.
 
-## We design technology to help institutions protect liberty
+## We design technology to help institutions protect data liberty
 Analytic technology, especially in the hands of powerful institutions that hold large volumes of data, can pose serious risks to privacy and civil liberties. That's why we build privacy-protective capabilities into our products, help customers understand how to use them responsibly, and work with advocacy groups and the policy community on how technology can be used to protect privacy interests today and in the future. We have always been, and continue to be, committed to helping organizations get value out of their data while protecting sensitive information from misuse and abuse.
 
 ## We go where we’re needed most
