@@ -6,9 +6,10 @@ weight: 1
 layout: service
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+We help Health and Life Sciences organizations transition from opportunistic and tactical AI decision-making to a more strategic AI Solutions orientation.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+
+![AI Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 
