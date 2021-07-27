@@ -1,20 +1,18 @@
 ---
 title: "AI Medical Imaging"
-date: 2018-11-28T15:14:54+10:00
+date: 2021-01-01T15:14:54+10:00
 featured: true
 weight: 1
 layout: service
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Twin AI develops clinical and non-clinical AI-powered workflow solutions for radiologists who want the most comprehensive technology, without the complexity. The AI medical imaging platforms we create automatically standardizes data, and provides a host of AI-powered solutions for reading, reporting, QA and research.
 
-## Ne verba patulosque numen vix libet
+Build with deep learning technology and trained using millions of images, our AI medical imaging solutions identify and localize abnormalities on X-rays, MRI and CT scans.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Deep learning in disease detection and prediction
+
+A higher-level application of deep learning in the medical imaging workflow is centered around diagnosis and prediction through image segmentation or pattern detection. Segmentation is the process of partitioning an image into multiple regions that have certain relevant attributes in common. In line with the common narrative of deep-learning assisted solutions, recent research supports the claim that segmentation is performed more efficiently by computers than it is by humans. Automatizing this task improves disease detection workflows.
 
 1. Cum det dixit Parcarum qui spemque est
 2. Exit ex huic
@@ -28,15 +26,15 @@ dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
 Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
 esse iam feres mortis Plurima.
 
-## Postquam tamen
+## Deep learning in disease detection and prediction
 
 Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
 et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
 licet! Inserui quamvis Clymeni.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
+- Reduce burden and improve efficiency
+- Improve quality of diagnosis
+- Predicting outcomes
 - Gestumque crepuscula esse videntur coegit
 - Ambo videtque gerat aquae ferens vagina
 - Adde leviter faciam tetigisse regunt concava in

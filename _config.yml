@@ -1,6 +1,6 @@
 baseurl: '/english/'
 permalink: pretty
-title: 'Twinai - Building end to end AI healthcare solutions'
+title: 'Twin AI - Building end to end AI solutions for Healthcare and Life Sciences'
 
 google_analytics_id: ""
 
@@ -16,12 +16,12 @@ footer:
   copyright_text: 'Copyright by <a class="Twinai" href="https://www.twinai.tw">www.twinai.tw</a>'
 
 seo:
-  meta_og_title: "Twinai - Building end to end AI healthcare solutions"
+  meta_og_title: "Twin AI - Building end to end AI solutions for Healthcare and Life Sciences"
   meta_og_type: "website"
   meta_og_url: "https://www.twinai.tw/english"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Twinai is an enterprise AI platform that unlocks the value of your health data.
-  We build and license AI modules and create products for a portfolio of clients, including hospitals, insurance, pharma, researchers, clinics, and providers."
+  meta_og_description: "Twin AI is an enterprise AI platform that unlocks the value of your health data.
+  We build and license AI modules and create products for a portfolio of clients, including hospitals, insurance, pharmaceuticals, researchers, clinics, and providers."
   meta_twitter_card: "summary"
   meta_twitter_site: "@twinai"
   meta_twitter_creator: "@twinai"
